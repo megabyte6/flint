@@ -1,6 +1,9 @@
 [package]
 name = "vesta"
 version = "0.1.0"
+authors = ["Brayden Chan (megabyte6)"]
 edition = "2024"
+description = "A Minecraft server management tool"
 
 [dependencies]
+clap = { version = "4.5.49", features = ["derive"] }
