@@ -1,2 +1,2 @@
-# vesta
-A Minecraft server management tool
+# flint
+The Minecraft Java server management tool
